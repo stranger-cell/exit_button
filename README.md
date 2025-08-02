@@ -1,20 +1,19 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Exit_Button_Project] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [mniniki]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Nikhil Sunilkumar] - [College of engineering karunagappaly]
+- Member 2: [Name] - [College of engineering karunagappaly]
 
 ### Project Description
-[2-3 lines about what your project does]
+[]
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
@@ -47,37 +46,17 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+<img width="1920" height="1080" alt="Screenshot 2025-08-02 073855" src="https://github.com/user-attachments/assets/c08e5954-06d2-43e6-8623-2a541f5ec731" />
+
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+<img width="1920" height="1080" alt="Screenshot 2025-08-02 073834" src="https://github.com/user-attachments/assets/d6b2107a-d722-44fb-9943-6b1b5d6b41df" />
+
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+*Add caption explaining what this shows*<img width="1920" height="1080" alt="Screenshot 2025-08-02 073906" src="https://github.com/user-attachments/assets/0adc111e-8c87-4331-baf7-8ab2f1c63c47" />
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
