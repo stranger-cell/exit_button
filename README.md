@@ -13,13 +13,13 @@
 - Member 2: [Name] - [College of engineering karunagappaly]
 
 ### Project Description
-[]
+[The exit button that refuses to exit.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+if you want to exit the page,but exit button has other plans which is kinda annoying.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[exit from the entire page]
 
 ## Technical Details
 ### Technologies/Components Used
